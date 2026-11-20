@@ -1,0 +1,20 @@
+[
+  {
+    "guid": "fe290b53-dc42-41f2-95f0-4b432168b3dd",
+    "name": "Fix Resume State",
+    "description": "Clears the leftover resume position on items already marked Played, so they no longer show a progress bar alongside the watched checkmark.",
+    "overview": "Fixes items showing as both Watched and In Progress.",
+    "owner": "DuckWithACrowbar-git",
+    "category": "General",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "Initial release",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/DuckWithACrowbar-git/jellyfin-plugin-fixresume/releases/download/v1.0.0.0/FixResume_1.0.0.0.zip",
+        "checksum": "69A52E8DDFCEB273B2BBACE947390D61",
+        "timestamp": "2026-11-19T00:00:00Z"
+      }
+    ]
+  }
+]
